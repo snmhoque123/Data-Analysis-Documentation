@@ -35,7 +35,10 @@ In my free time, I enjoy exploring new data analysis tools and techniques and am
 - Tools & Technologies: Microsoft SQL Server, SSMS, Power BI, Tableau, ArcGIS
 - Cloud Platforms: Azure, Snowflake Cloud
 
-- [Education](https://github.com/snmhoque123/Data-Analysis-Documentation/edit/main/README.md#education)
+- [Education](https://github.com/snmhoque123/Data-Analysis-Documentation/main/README.md#education)
+- [Certificates](https://github.com/snmhoque123/Data-Analysis-Documentation/edit/main/README.md#certificates) 
+- [Contact](https://github.com/snmhoque123/Data-Analysis-Documentation/main/README.md#contacts)
+
 ## Resume
 My CV in <a href="https://www.mi2labs.com/">pdf</a></p> 
 
@@ -82,3 +85,11 @@ Based on the analysis, we recommended the following actions:
 - Post Graduate Diploma in Earth System Physics, The Abdus Salam ICTP, Italy (2007-2008)
 - B.Sc. in Physics, Shah Jalal University of Science & Technology, Bangladesh (2001-2006)
 
+## Certificates
+- [Google Data Analytics Professional Certificate] (#) (Sep 2023) (Coursera - Google)
+- [Tableau] (#) (Oct 2023) (Coursera - University of California, Davis)
+- [Python for Data Science] (#) (Feb 2023) (Coursera - University of Colorado Boulder)
+
+## Contacts
+- [LinkedIn](https://www.linkedin.com/in/s-n-m-azizul-hoque-baba3b27/)
+- Email: snmhoque@gmail.com
