@@ -45,6 +45,7 @@ My CV in <a href="https://www.mi2labs.com/">pdf</a></p>
 
 ### Table of Content
 - [Data Science](https://github.com/snmhoque123/DataScience)
+- [Image Processing](https://github.com/snmhoque123/image-processing)
 - Project Overview
 - Data Sources
 - Recommendations
